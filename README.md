@@ -1,2 +1,2 @@
 # project
-college final project
+Master sem-1 Project
